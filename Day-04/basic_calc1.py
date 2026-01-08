@@ -1,5 +1,4 @@
-num1 = 10
-num2 = 5
+
 
 def add():
     add = num1 + num2
